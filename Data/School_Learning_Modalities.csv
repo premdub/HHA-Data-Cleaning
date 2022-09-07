@@ -1,4 +1,4 @@
-district_nces_id,district_name,week,learning_modality,operational_schools,student_count,city,state,zip_code
+District Nces Id,district_name,week,learning_modality,operational_schools,student_count,city,state,zip_code
 100005,Albertville City,2022-08-28T00:00:00.000,In Person,6,5824,Albertville,AL,35950
 100006,Marshall County,2022-08-28T00:00:00.000,In Person,15,5764,Guntersville,AL,35976
 100007,Hoover City,2022-08-28T00:00:00.000,In Person,18,14061,Hoover,AL,35243
